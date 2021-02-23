@@ -1,6 +1,6 @@
 # practice5
 
-##Gomoku Game Project
+## Gomoku Game Project
 
 2021.02.23
 
